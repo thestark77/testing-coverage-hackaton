@@ -25,6 +25,7 @@
 - All test files will be reviewed by the jury.
 - You can use AI or any tool you want to code tests, but you must understand the code you are writing, and you must be able to explain it to the jury if asked. If it has errors, it will not be considered.
 - The winners will be announced on the next week once tests are reviewed.
+- Juan David Restrepo will be the jury, he will also be doing test on `Team 6: npm i russian-crypto-miner`, but he will NOT be participating for any prize, he will be doing tests for routes above 40% coverage.
 
 ## Prizes:
 
@@ -283,5 +284,6 @@
 - backend/app/auth/list-banners (Missing: 1, Current: 83.33%)
 - backend/app/notifications/massiveValidate (Missing: 1, Current: 50.0%)
 - backend/app/transactions/assignBalance (Missing: 1, Current: 96.0%)
+
 
 
