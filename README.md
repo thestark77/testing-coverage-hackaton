@@ -16,6 +16,7 @@
 ## Rules:
 
 - Your team will be assigned a random list of files to cover, each route you get to 100% coverage, you get to points for each statement you complete, but *ONLY ROUTES WITH 100% COVERAGE WILL BE CONSIDERED*.
+- If the difference between the completed statements is less than 3, between 2 or more teams, it will be considered as a tie and the prize will be divided between the teams.
 - Each `route.ts` file your team have must have a test file named `e2e.test.ts` in the same directory.
 - Make 1 commit per file you cover.
 - You have until 5 pm to code tests and make commits. NOTE: commits made after 5 pm will not be considered.
@@ -282,4 +283,5 @@
 - backend/app/auth/list-banners (Missing: 1, Current: 83.33%)
 - backend/app/notifications/massiveValidate (Missing: 1, Current: 50.0%)
 - backend/app/transactions/assignBalance (Missing: 1, Current: 96.0%)
+
 
